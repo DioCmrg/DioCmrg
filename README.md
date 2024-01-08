@@ -2,7 +2,7 @@
 
 
 
-- 🔭 Hoje trabalho com prospecção de leads
+- 🔭 Em processo de transição de carreira
 - 🌱 Estudando Typescript
 - 😄 Pronouns: ele/dele
 - ⚙ Em transição de carreira
