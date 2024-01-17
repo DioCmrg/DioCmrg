@@ -3,7 +3,7 @@
 
 
 - 🔭 Em processo de transição de carreira
-- 🌱 Estudando Typescript
+- 🌱 Estudando Análise e Desinvolvimento de Sistemas na UNOPAR
 - 😄 Pronouns: ele/dele
 - ⚙ Em transição de carreira
 
