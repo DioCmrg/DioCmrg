@@ -1,12 +1,18 @@
 ## Olá eu sou o Diovane Camargo!!
 
+⭐ Nenhum esforço faz sentido, se você não acredita em si mesmo!
+🚀 Em transição de carreira para Desenvolvimento/Programação
 
+🔗 Linkedin: [https://github.com/DioCmrg/](https://www.linkedin.com/in/diocmrg/)
+📧 Contato: diovane.cmelo@gmail.com
 
-- 🔭 Em processo de transição de carreira
-- 🌱 Estudando Análise e Desinvolvimento de Sistemas na UNOPAR
-- 😄 Pronouns: ele/dele
-- ⚙ Em transição de carreira
+🔍 Em fase de seleção para a turma 6 do Oracle Next Education (ONE), um programa de educação e empregabilidade com o objetivo social de capacitar pessoas em tecnologia e conectá-las ao mercado de trabalho, oferecendo uma formação 100% online e gratuita.
 
+💻 Realizei dois cursos na área: Desenvolvimento de Sistemas Web Fullstack no IFES e Capacitação em Desenvolvimento Fullstack com especialização em Back End na Gama Academy.
+
+📚 Estou no último semestre do curso tecnólogo em Processos Gerenciais e no primeiro semestre de Análise e Desenvolvimento de Sistemas.
+
+🏋️ Praticante de calistenia, entusiasta de Krav Maga Caveira e apaixonado por corridas de rua e ioga.
 
 
 <div align="center">
