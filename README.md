@@ -1,6 +1,5 @@
 ## Olá eu sou o Diovane Camargo!!
 
-⭐ Nenhum esforço faz sentido, se você não acredita em si mesmo!
 🚀 Em transição de carreira para Desenvolvimento/Programação
 
 🔗 Linkedin: https://www.linkedin.com/in/diocmrg/
@@ -14,6 +13,7 @@
 
 🏋️ Praticante de calistenia, entusiasta de Krav Maga Caveira e apaixonado por corridas de rua e ioga.
 
+##
 
 <div align="center">
   <a href="https://github.com/DioCmrg">
