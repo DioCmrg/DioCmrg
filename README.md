@@ -9,7 +9,7 @@
 
 💻 Realizei dois cursos na área: Desenvolvimento de Sistemas Web Fullstack no IFES e Capacitação em Desenvolvimento Fullstack com especialização em Back End na Gama Academy.
 
-📚 Estou no último semestre do curso tecnólogo em Processos Gerenciais e no primeiro semestre de Análise e Desenvolvimento de Sistemas.
+📚 Estou no primeiro semestre de Análise e Desenvolvimento de Sistemas.
 
 🏋️ Praticante de calistenia, entusiasta de Krav Maga Caveira e apaixonado por corridas de rua e ioga.
 
