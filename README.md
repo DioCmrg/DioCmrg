@@ -11,7 +11,7 @@
 
 📚 Estou no primeiro semestre de Análise e Desenvolvimento de Sistemas.
 
-🏋️ Praticante de calistenia, entusiasta de Krav Maga Caveira e apaixonado por corridas de rua e ioga.
+🏋️ Praticante de calistenia
 
 ##
 
