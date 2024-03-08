@@ -9,8 +9,6 @@
 
 💻 Realizei dois cursos na área: Desenvolvimento de Sistemas Web Fullstack no IFES e Capacitação em Desenvolvimento Fullstack com especialização em Back End na Gama Academy.
 
-📚 Estou no primeiro semestre de Análise e Desenvolvimento de Sistemas.
-
 🏋️ Praticante de calistenia
 
 ##
